@@ -1,16 +1,6 @@
-"alumnos" : [
-  {
-    "id": 1,
-    "name": "Camilo Araya",
-    "email": "carayaserrano@gmail.com",
-    "username": "c.araya",
-    "password": "123"
-  },
-  {
-    "id": 2,
-    "name": "Felix Diaz",
-    "email": "felixdiaz@gmail.com",
-    "username": "f.diaz",
-    "password": "456"
-  }
-]
+{
+  "student" : [
+    {"id": 1,"name": "Camilo Araya","email": "carayaserrano@gmail.com","username": "c.araya","password": "123"},
+    {"id": 2,"name": "Felix Diaz","email": "felixdiaz@gmail.com","username": "f.diaz","password": "456"}
+  ]
+}
