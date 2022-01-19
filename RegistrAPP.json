@@ -1,16 +1,16 @@
 "alumnos" : [
   {
-    "AlumId": 1,
+    "id": 1,
     "name": "Camilo Araya",
     "email": "carayaserrano@gmail.com",
-    "username": "carayaserrano",
+    "username": "c.araya",
     "password": "123"
   },
   {
-    "AlumId": 2,
+    "id": 2,
     "name": "Felix Diaz",
     "email": "felixdiaz@gmail.com",
-    "username": "felixdiaz",
+    "username": "f.diaz",
     "password": "456"
   }
 ]
